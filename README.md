@@ -56,7 +56,7 @@ The **FundMe** smart contract allows users to send ETH to fund a common treasury
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/duongtm2003/foundry-fund-me.git
-   cd foundry-fund-me-f26
+   cd foundry-fund-me
    ```
 
 2. **Install dependencies:**
